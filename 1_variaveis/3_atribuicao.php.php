@@ -1,0 +1,21 @@
+<?php
+
+$a = 24;
+$b = 16;
+
+$c= $a + $b;
+echo '<br>A soma é ' . $c;
+
+$c= $a * $b;
+echo '<br>A soma é ' . $c;
+
+$c= $a - $b;
+echo '<br>A soma é ' . $c;
+
+$c= $a / $b;
+echo '<br>A soma é ' . $c;
+
+// Exercício
+/* Crie uma variavel quei vai receber o valor de 32 e subtrair o valor de 18*/
+echo''
+?>
