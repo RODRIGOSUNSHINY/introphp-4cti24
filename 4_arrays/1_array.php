@@ -1,5 +1,5 @@
 <?php
-$php = array('segunda''terça''quarta');
+$php = array('segunda','terca','quarta');
 echo $php[0];
 echo $php[1];
 ?>
